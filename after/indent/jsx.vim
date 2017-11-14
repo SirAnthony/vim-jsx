@@ -6,6 +6,8 @@
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+finish
+
 " Save the current JavaScript indentexpr.
 let b:jsx_js_indentexpr = &indentexpr
 
